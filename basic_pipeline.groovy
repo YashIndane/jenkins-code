@@ -13,7 +13,7 @@ pipeline{
         
         stage('Test'){
             steps{
-               echo "mic ... check testing!"
+               echo "mic .... check testing!"
                sleep 2
             }   
         }
